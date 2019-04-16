@@ -1,0 +1,7 @@
+﻿名称,値
+scaleFactor,1.2
+topWallOffset,0.6
+bottomWallOffset,0.4
+leftWallOffset,0.6
+rightWallOffset,0.4
+follower,0
